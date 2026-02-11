@@ -3,12 +3,12 @@ A Coffee Shop named Sunrise Breeders reflects our commitment to starting your da
 
  ## Complete Sunrise Breeders System
 📁 Files You Have:
-config.php - Database connection
+- config.php - Database connection
 
-register.php - Coffee shop registration (☕ themed)
+- register.php - Coffee shop registration (☕ themed)
 
-login.php - Coffee shop login (☕ themed)
+- login.php - Coffee shop login (☕ themed)
 
-homepage.php - Your original design + user bar + logout
+- homepage.php - Your original design + user bar + logout
 
-logout.php - Session logout
+- logout.php - Session logout
