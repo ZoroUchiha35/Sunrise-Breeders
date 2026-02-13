@@ -11,3 +11,4 @@ A Coffee Shop named Sunrise Breeders reflects our commitment to starting your da
 
 ## 🚀 Features Working
 - Coffee shop registration with preference selection
+- Secure login with session management
