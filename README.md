@@ -10,3 +10,4 @@ A Coffee Shop named Sunrise Breeders reflects our commitment to starting your da
 - logout.php - Session logout
 
 ## 🚀 Features Working
+- Coffee shop registration with preference selection
