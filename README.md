@@ -14,3 +14,4 @@ A Coffee Shop named Sunrise Breeders reflects our commitment to starting your da
 - Secure login with session management
 - Personalized homepage with your original design
 - User profile bar showing coffee preferences
+- Full e-commerce functionality (products, cart, checkout)
