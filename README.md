@@ -12,7 +12,7 @@ A Coffee Shop named Sunrise Breeders reflects our commitment to starting your da
 ## Features Working
 - **Coffee shop registration** with preference selection
 - **Secure login** with session management
-- **Personalized homepage** with your original design
+- **Personalized homepage** with a coffee shop original design
 - **User profile bar** showing coffee preferences
 - **Full e-commerce functionality** (products, cart, checkout)
 - **Password hashing** for security
