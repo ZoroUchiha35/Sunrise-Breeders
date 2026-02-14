@@ -21,7 +21,10 @@ A Coffee Shop named Sunrise Breeders reflects our commitment to starting your da
 #### *Image shows a fraction of the website (Sunrise Breeders)*
 
 ## NB
-**Note** 
-- Hosted the site in Infinity Free, The Link in the About Section will take you to the site itself
+**Note**
+- Hosted the site in Infinity Free, The Link in the About Section will take you to the site itself.
+- Free domains `(.rf.gd, .epizy.com, etc.)` are often used by spammers & Browsers flag them as "potentially dangerous" by default.
+
+
 
 
